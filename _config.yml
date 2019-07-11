@@ -1,12 +1,12 @@
 title: Andrew Folkinsx # your name (or website title) here
 logo: "IMG_0989.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-First description
-sfdgdfg
-<br><br>
-Second description
-dfghdfghd
-<br><br>
+  First description
+  sfdgdfg
+  <br><br>
+  Second description
+  dfghdfghd
+  <br><br>
   <a href="https://www.linkedin.com/in/andrew-folkins-454942a4/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
